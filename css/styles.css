@@ -323,7 +323,7 @@ max-width: 1600px;
 background-color: #2f303a;
 display:block;
 padding: 60px;
-margin: 20px;
+margin: 0;
 }
 .footer {
   display: block;
